@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=BE8EC0&width=500&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-- 👋 Hi, I’m Amany Ashraf
+ 👋 Hi, I’m Amany Ashraf
 - 👀 I’m interested in Android application development
 - 🌱 I’m currently learning Android with Kotlin
 - 💞 Always learning new things
